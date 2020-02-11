@@ -1,0 +1,135 @@
+c:\users\user\documents\visual studio 2015\Projects\酷炫踩地雷\bin\Debug\酷炫踩地雷.exe.config
+c:\users\user\documents\visual studio 2015\Projects\酷炫踩地雷\bin\Debug\酷炫踩地雷.exe
+c:\users\user\documents\visual studio 2015\Projects\酷炫踩地雷\bin\Debug\酷炫踩地雷.pdb
+c:\users\user\documents\visual studio 2015\Projects\酷炫踩地雷\obj\Debug\酷炫踩地雷.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\酷炫踩地雷\obj\Debug\酷炫踩地雷.csproj.ResolveComReference.cache
+c:\users\user\documents\visual studio 2015\Projects\酷炫踩地雷\obj\Debug\酷炫踩地雷.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\酷炫踩地雷\obj\Debug\酷炫踩地雷.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\酷炫踩地雷\obj\Debug\酷炫踩地雷.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\酷炫踩地雷\obj\Debug\酷炫踩地雷.exe
+c:\users\user\documents\visual studio 2015\Projects\酷炫踩地雷\obj\Debug\酷炫踩地雷.pdb
+c:\users\user\documents\visual studio 2015\Projects\酷炫踩地雷\obj\Debug\酷炫踩地雷.Game.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\酷炫踩地雷\obj\Debug\酷炫踩地雷.Boom.resources
+D:\Visual studio 2015\Projects\酷炫踩地雷\bin\Debug\酷炫踩地雷.exe.config
+D:\Visual studio 2015\Projects\酷炫踩地雷\obj\Debug\酷炫踩地雷.csproj.ResolveComReference.cache
+D:\Visual studio 2015\Projects\酷炫踩地雷\obj\Debug\酷炫踩地雷.exe
+D:\Visual studio 2015\Projects\酷炫踩地雷\obj\Debug\酷炫踩地雷.pdb
+D:\Visual studio 2015\Projects\酷炫踩地雷\bin\Debug\酷炫踩地雷.exe
+D:\Visual studio 2015\Projects\酷炫踩地雷\bin\Debug\酷炫踩地雷.pdb
+D:\Visual studio 2015\Projects\酷炫踩地雷\obj\Debug\酷炫踩地雷.csprojResolveAssemblyReference.cache
+D:\Visual studio 2015\Projects\酷炫踩地雷\obj\Debug\酷炫踩地雷.Boom.resources
+D:\Visual studio 2015\Projects\酷炫踩地雷\obj\Debug\酷炫踩地雷.Form1.resources
+D:\Visual studio 2015\Projects\酷炫踩地雷\obj\Debug\酷炫踩地雷.Game.resources
+D:\Visual studio 2015\Projects\酷炫踩地雷\obj\Debug\酷炫踩地雷.Properties.Resources.resources
+D:\Visual studio 2015\Projects\酷炫踩地雷\obj\Debug\酷炫踩地雷.csproj.GenerateResource.Cache
+D:\Visual studio 2015\Projects\酷炫踩地雷\obj\Debug\酷炫踩地雷.酷炫.resources
+D:\Visual studio 2015\Projects\酷炫踩地雷\obj\Debug\酷炫踩地雷.Set_Color.resources
+D:\下載\酷炫踩地雷(Color)\酷炫踩地雷\bin\Debug\酷炫踩地雷.exe.config
+D:\下載\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.csproj.ResolveComReference.cache
+D:\下載\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.exe
+D:\下載\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.pdb
+D:\下載\酷炫踩地雷(Color)\酷炫踩地雷\bin\Debug\酷炫踩地雷.exe
+D:\下載\酷炫踩地雷(Color)\酷炫踩地雷\bin\Debug\酷炫踩地雷.pdb
+D:\下載\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.csprojResolveAssemblyReference.cache
+D:\下載\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Boom.resources
+D:\下載\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Form1.resources
+D:\下載\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Game.resources
+D:\下載\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Properties.Resources.resources
+D:\下載\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Set_Color.resources
+D:\下載\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.酷炫.resources
+D:\下載\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\酷炫踩地雷(Color)\酷炫踩地雷\bin\Debug\酷炫踩地雷.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.csproj.ResolveComReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\酷炫踩地雷(Color)\酷炫踩地雷\bin\Debug\酷炫踩地雷.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\酷炫踩地雷(Color)\酷炫踩地雷\bin\Debug\酷炫踩地雷.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Boom.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Choose.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Game.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Set_Color.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.酷炫.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\酷炫踩地雷(Color)\酷炫踩地雷\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\酷炫踩地雷(Color)\酷炫踩地雷\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\bin\Debug\酷炫踩地雷.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.csproj.ResolveComReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\小宇小遊戲\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\bin\Debug\酷炫踩地雷.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\小宇小遊戲\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\小宇小遊戲\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\小宇小遊戲\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.csproj.ResolveComReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\小宇小遊戲\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\小宇小遊戲\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.pdb
+C:\Users\皇宇\Desktop\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\bin\Debug\酷炫踩地雷.exe.config
+C:\Users\皇宇\Desktop\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\Interop.WMPLib.dll
+C:\Users\皇宇\Desktop\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\皇宇\Desktop\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.csproj.ResolveComReference.cache
+C:\Users\皇宇\Desktop\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.exe
+C:\Users\皇宇\Desktop\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.pdb
+D:\Google 雲端硬碟\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\bin\Debug\酷炫踩地雷.exe.config
+D:\Google 雲端硬碟\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\Interop.WMPLib.dll
+D:\Google 雲端硬碟\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\AxInterop.WMPLib.dll
+D:\Google 雲端硬碟\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.csproj.ResolveComReference.cache
+D:\Google 雲端硬碟\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.exe
+D:\Google 雲端硬碟\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.pdb
+D:\Google 雲端硬碟\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\bin\Debug\酷炫踩地雷.exe
+D:\Google 雲端硬碟\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\bin\Debug\酷炫踩地雷.pdb
+D:\Google 雲端硬碟\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\bin\Debug\Interop.WMPLib.dll
+D:\Google 雲端硬碟\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\bin\Debug\AxInterop.WMPLib.dll
+D:\Google 雲端硬碟\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.csprojResolveAssemblyReference.cache
+D:\Google 雲端硬碟\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Boom.resources
+D:\Google 雲端硬碟\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Choose.resources
+D:\Google 雲端硬碟\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Form1.resources
+D:\Google 雲端硬碟\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Game.resources
+D:\Google 雲端硬碟\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Properties.Resources.resources
+D:\Google 雲端硬碟\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Set_Color.resources
+D:\Google 雲端硬碟\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.酷炫.resources
+D:\Google 雲端硬碟\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.csproj.GenerateResource.Cache
+D:\Google硬碟\小宇小遊戲 (1)\酷炫踩地雷(Color)\酷炫踩地雷\bin\Debug\酷炫踩地雷.exe.config
+D:\Google硬碟\小宇小遊戲 (1)\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\Interop.WMPLib.dll
+D:\Google硬碟\小宇小遊戲 (1)\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\AxInterop.WMPLib.dll
+D:\Google硬碟\小宇小遊戲 (1)\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.csproj.ResolveComReference.cache
+D:\Google硬碟\小宇小遊戲 (1)\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.exe
+D:\Google硬碟\小宇小遊戲 (1)\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.pdb
+D:\Google硬碟\小宇小遊戲 (1)\酷炫踩地雷(Color)\酷炫踩地雷\bin\Debug\酷炫踩地雷.exe
+D:\Google硬碟\小宇小遊戲 (1)\酷炫踩地雷(Color)\酷炫踩地雷\bin\Debug\酷炫踩地雷.pdb
+D:\Google硬碟\小宇小遊戲 (1)\酷炫踩地雷(Color)\酷炫踩地雷\bin\Debug\Interop.WMPLib.dll
+D:\Google硬碟\小宇小遊戲 (1)\酷炫踩地雷(Color)\酷炫踩地雷\bin\Debug\AxInterop.WMPLib.dll
+D:\Google硬碟\小宇小遊戲 (1)\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.csprojResolveAssemblyReference.cache
+D:\Google硬碟\小宇小遊戲 (1)\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Boom.resources
+D:\Google硬碟\小宇小遊戲 (1)\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Choose.resources
+D:\Google硬碟\小宇小遊戲 (1)\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Form1.resources
+D:\Google硬碟\小宇小遊戲 (1)\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Game.resources
+D:\Google硬碟\小宇小遊戲 (1)\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Properties.Resources.resources
+D:\Google硬碟\小宇小遊戲 (1)\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Set_Color.resources
+D:\Google硬碟\小宇小遊戲 (1)\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.酷炫.resources
+D:\Google硬碟\小宇小遊戲 (1)\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.csproj.GenerateResource.Cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\Interop.WMPLib.dll
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\AxInterop.WMPLib.dll
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.exe
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.pdb
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\bin\Debug\酷炫踩地雷.exe.config
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\bin\Debug\酷炫踩地雷.exe
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\bin\Debug\酷炫踩地雷.pdb
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\bin\Debug\Interop.WMPLib.dll
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\bin\Debug\AxInterop.WMPLib.dll
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.csproj.ResolveComReference.cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Boom.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Choose.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Form1.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Game.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Properties.Resources.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.Set_Color.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.酷炫.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.csproj.GenerateResource.Cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.csproj.CoreCompileInputs.cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\酷炫踩地雷(Color)\酷炫踩地雷\obj\Debug\酷炫踩地雷.csprojResolveAssemblyReference.cache
