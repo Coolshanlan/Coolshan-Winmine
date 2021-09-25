@@ -76,17 +76,11 @@ namespace 酷炫踩地雷
                 g = new Game();
                 this.Hide();
                 g.ShowDialog();
-                if (Game.hide == 3 && hide != true)
+                if (Game.hide == 3 )
                 {
                     hide = true;
                     this.Text = "酷炫踩大便";
                     label2.Text = "大便數";
-                }
-                else if (hide == true)
-                {
-                    Game.hide++;
-                    this.Text = "酷炫踩炸彈";
-                    label2.Text = "炸彈數";
                 }
                 this.Show();
           }
