@@ -7,10 +7,11 @@ Coolshan Winmine 可以自己設定格子數量、炸彈數量以及格子顏色
 
 ## Screenshot
 ### Different Level
-<img src="https://guthub.com/Coolshanlan/Coolshan-Winmine/blob/master/demo_image/Mode01.png?raw=true" width=32% ><img src="https://guthub.com/Coolshanlan/Coolshan-Winmine/blob/master/demo_image/Mode02.png?raw=true" width=32% ><img src="https://guthub.com/Coolshanlan/Coolshan-Winmine/blob/master/demo_image/Mode03.png?raw=true" width=32% >
+<img src="https://github.com/Coolshanlan/Coolshan-Winmine/blob/master/demo_image/Mode01.png?raw=true" width=32% ><img src="https://github.com/Coolshanlan/Coolshan-Winmine/blob/master/demo_image/Mode02.png?raw=true" width=32% ><img src="https://github.com/Coolshanlan/Coolshan-Winmine/blob/master/demo_image/Mode03.png?raw=true" width=32% >
+
 
 ### Hidden Mode
-<img src="https://guthub.com/Coolshanlan/Coolshan-Winmine/blob/master/demo_image/Hidden.png?raw=true" width=50% >
+<img src="https://github.com/Coolshanlan/Coolshan-Winmine/blob/master/demo_image/Hidden.png?raw=true" width=50% >
 
 ### Set Color
-<img src="https://guthub.com/Coolshanlan/Coolshan-Winmine/blob/master/demo_image/Color.png?raw=true" width=50% >
+<img src="https://github.com/Coolshanlan/Coolshan-Winmine/blob/master/demo_image/Color.png?raw=true" width=50% >
