@@ -15,3 +15,6 @@ Coolshan Winmine 可以自己設定格子數量、炸彈數量以及格子顏色
 
 ### Set Color
 <img src="https://github.com/Coolshanlan/Coolshan-Winmine/blob/master/demo_image/Color.png?raw=true" width=50% >
+
+## How to Use
+Execute `酷炫踩地雷.exe`
